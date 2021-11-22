@@ -1,3 +1,4 @@
 # task_git
 
-echo "Проверка";
+Проверка;
+New Line
