@@ -1,0 +1,17 @@
+{
+    "name": "alex/task_git",
+    "authors": [
+        {
+            "name": "Alex Sh",
+            "email": "alex@mail.ru"
+        }
+    ],
+    "require": {
+        "symfony/console": "^5.3"
+    },
+       "autoload": {
+              "psr-4": {
+                   "App\\": ["src"]
+               }
+        }
+}
